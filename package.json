@@ -1,0 +1,14 @@
+{
+  "name": "practicum",
+  "version": "0.0.1",
+  "description": "Educational platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lao Vang",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
